@@ -84,11 +84,11 @@ author:
   avatar           : "profile.png"
   bio              : "Your biography for the left-hand sidebar"
   location         : "Chicago, IL"
-  employer         :
+  employer         : Citadel Securities
   pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?user=cZrdt4EAAAAJ&hl=en"
   email            : "gaosheng0321@gmail.com"
-  researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
+  researchgate     : "https://www.researchgate.net/profile/Sheng-Gao-25"
   uri              :
   bitbucket        :
   codepen          :
