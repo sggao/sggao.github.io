@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "Chicago, US"
-title                    : "Your Name / Site Title"
+title                    : "Sheng Gao"
 title_separator          : "-"
 name                     : &name "Sheng Gao"
 description              : &description "personal description"
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Sheng Gao"
   avatar           : "profile.png"
-  bio              : "Your biography for the left-hand sidebar"
+  bio              : "Quantitative Researcher at Citadel Securities"
   location         : "Chicago, IL"
   employer         : Citadel Securities
   pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
@@ -103,18 +103,18 @@ author:
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         : "https://www.linkedin.com/in/sheng-gao-8001aa146/"
-  orcid            : "http://orcid.org/yourorcidurl"
+  orcid            : #"http://orcid.org/yourorcidurl"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "replacethistwitterhandle"
+  twitter          : #"replacethistwitterhandle"
   vine             :
-  weibo            :
+  weibo            : 
   xing             :
   youtube          :
-  wikipedia        :
+  wikipedia        : "https://www.weibo.com/u/2737047161"
 
 
 # Reading Files
