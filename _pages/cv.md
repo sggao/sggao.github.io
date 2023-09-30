@@ -54,8 +54,7 @@ Awards
 * Winner of KDD Cup 2021, [Large Scale Graph Machine Learning Challenge](https://ogb.stanford.edu/kddcup2021/results/)
 * CTL Graduate Fellowship for Teaching Excellence, *University of Pennsylvania*, 2021
 * Donald S. Murray Award for excellence in teaching
-* First Place winner (25000 pounds) in  [Wellcome Data Re-use Research Competition for Malaria] 
-(https://www.synapse.org/#!Synapse:syn18379247/wiki/588810), 2019 
+* First Place winner in  [Wellcome Data Re-use Research Competition for Malaria](https://www.synapse.org/#!Synapse:syn18379247/wiki/588810), 2019 
 * Cambridge Overseas Trust Scholarship, 2014-2018
 * Braithwaite Prize (award to the College Top 1 in Mathematical Tripos), *University of Cambridge*, 2017
 
