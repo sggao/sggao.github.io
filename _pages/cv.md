@@ -22,17 +22,21 @@ Work experience
 * Citadel Securities, Summer 2023, *Chicago, US*
   * Quantitative Research Intern
 
-* Baidu, NLP, Summer 2021, *Shenzhen, China*
+* Baidu Natural Language Processing (NLP), Summer 2021, *Shenzhen, China*
   * Deep Learning Researcher
   
 
 Selected Publications
 ======
-* [Sparse GCA and Thresholded Gradient Descent](https://www.jmlr.org/papers/v24/21-0745.html)
-*Sheng Gao, Zongming Ma* Journal Of Machine Learning Research, 2023
+* [Sparse GCA and Thresholded Gradient Descent](https://www.jmlr.org/papers/v24/21-0745.html), 
+**Sheng Gao**, Zongming Ma
 
-* [DP-HyPO: An Adaptive Private Hyperparameter Optimization Framework](https://arxiv.org/abs/2306.05734)
-*Hua Wang, Sheng Gao, Huanyu Zhang, Weijie J. Su, Milan Shen*, NeuRIPS, 2023
+*Journal of Machine Learning Research (JMLR)*, 2023
+
+* [DP-HyPO: An Adaptive Private Hyperparameter Optimization Framework](https://arxiv.org/abs/2306.05734), 
+Hua Wang, **Sheng Gao**, Huanyu Zhang, Weijie J. Su, Milan Shen
+
+*Conference on Neural Information Processing Systems (NeuRIPS)*, 2023
 
   
 Awards
