@@ -12,11 +12,11 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Statistics and Data Science, Wharton School, University of Pennsylvania, 2018-2023
+* **Ph.D in Statistics and Data Science**, Wharton School, University of Pennsylvania, 2018-2023
   * Advisor: Zongming Ma
-* M.Math. in Mathematics, University of Cambridge, 2017-2018
+* **M.Math. in Mathematics**, University of Cambridge, 2017-2018
   * Distinction Honor
-* B.A. in Mathematics, University of Cambridge, 2014-2017
+* **B.A. in Mathematics**, University of Cambridge, 2014-2017
   * Class I in Mathematical Tripos (2015, 2016, 2017)
   * Cambridge Overseas Trust Scholarship
 
@@ -33,15 +33,15 @@ Selected Publications
 ======
 * [Sparse GCA and Thresholded Gradient Descent](https://www.jmlr.org/papers/v24/21-0745.html)
 
-**Sheng Gao**, Zongming Ma
+  * **Sheng Gao**, Zongming Ma
 
-*Journal of Machine Learning Research (JMLR)*, 2023
+  * *Journal of Machine Learning Research (JMLR)*, 2023
 
 * [DP-HyPO: An Adaptive Private Hyperparameter Optimization Framework](https://arxiv.org/abs/2306.05734)
 
-Hua Wang, **Sheng Gao**, Huanyu Zhang, Weijie J. Su, Milan Shen
+  * Hua Wang, **Sheng Gao**, Huanyu Zhang, Weijie J. Su, Milan Shen
 
-*Conference on Neural Information Processing Systems (NeuRIPS)*, 2023
+  * *Conference on Neural Information Processing Systems (NeuRIPS)*, 2023
 
   
 Awards
