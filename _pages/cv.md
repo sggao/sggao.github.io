@@ -33,19 +33,19 @@ Selected Publications
 ------
 * **Sparse GCA and Thresholded Gradient Descent.** (2021). [[arXiv]](https://arxiv.org/abs/2107.00371) [[journal]](https://www.jmlr.org/papers/v24/21-0745.html) [[BibTex]](https://scholar.googleusercontent.com/scholar.bib?q=info:i4acD0E2b8kJ:scholar.google.com/&output=citation&scisdr=ClHSR4v_EN3f3LBzvys:AFWwaeYAAAAAZRh1pyvGbrFJwDFuKfXkZvzGfJc&scisig=AFWwaeYAAAAAZRh1p6KeiD7Hsm8YAjjYNNFe20E&scisf=4&ct=citation&cd=-1&hl=en) [[software]](https://github.com/ShengGao-wharton/Sparse-Generalized-Correlation-Analysis) [[talk]](https://ww2.amstat.org/meetings/jsm/2020/onlineprogram/AbstractDetails.cfm?abstractid=313168)
 
-  * **Sheng Gao**, Zongming Ma.
+  * </ins>Sheng Gao</ins>, Zongming Ma.
 
-  * *Journal of Machine Learning Research (JMLR)*
+  * _Journal of Machine Learning Research_(JMLR)
 
 * **Multi-modal Analysis of PNC Data via Sparse Generalized Correlation Analysis**. (2023) *In Submission.*
 
-  * **Sheng Gao**, Fengling Hu, Theodore D. Satterthwaite, Russell T. Shinohara, and Zongming Ma
+  * </ins>Sheng Gao</ins>, Fengling Hu, Theodore D. Satterthwaite, Russell T. Shinohara, and Zongming Ma
 
 * **DP-HyPO: An Adaptive Private Hyperparameter Optimization Framework.** (2023). [[arXiv]](https://arxiv.org/abs/2306.05734) [[conference]](https://arxiv.org/abs/2306.05734) [[BibTex]](https://scholar.googleusercontent.com/scholar.bib?q=info:9cexp8L5MRsJ:scholar.google.com/&output=citation&scisdr=ClHSR4v_EN3f3LBwT-o:AFWwaeYAAAAAZRh2V-qsuUGeMDcc5vYTExVHDSM&scisig=AFWwaeYAAAAAZRh2V9KmW1ShSV1zrU_SNjvslvI&scisf=4&ct=citation&cd=-1&hl=en)
 
-  * Hua Wang, **Sheng Gao**, Huanyu Zhang, Weijie J. Su, Milan Shen.
+  * Hua Wang, </ins>Sheng Gao</ins>, Huanyu Zhang, Weijie J. Su, Milan Shen.
 
-  * *Conference on Neural Information Processing Systems (NeurIPS)*
+  * _Conference on Neural Information Processing Systems_(NeurIPS)
 
   
 Awards

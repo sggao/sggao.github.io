@@ -7,10 +7,10 @@
 
 # Site Settings
 locale                   : "Chicago, US"
-title                    : "Sheng Gao"
+title                    : "Sheng Gao/Personal Homepage"
 title_separator          : "-"
-name                     : &name "Sheng Gao Personal Homepage"
-description              : &description "personal description"
+name                     : &name "Sheng Gao"
+description              : &description "Quantitative Researcher at Citadel Securities"
 url                      : https://ShengGao-wharton.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "ShengGao-wharton/ShengGao-wharton.github.io"
