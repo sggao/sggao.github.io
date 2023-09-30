@@ -6,7 +6,8 @@ author_profile: true
 ---
 
 
-# Sparse Generalized Correlation Analysis
+Sparse Generalized Correlation Analysis
+------
 
 [![Generic badge](https://img.shields.io/badge/MATLAB-R2020a-BLUE.svg)](https://shields.io/)
 ![R](https://img.shields.io/badge/R-CRAN-orange)
