@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "Chicago, US"
-title                    : "Sheng Gao/Personal Homepage"
+title                    : "Sheng Gao's Personal Homepage"
 title_separator          : "-"
 name                     : &name "Sheng Gao"
 description              : &description "Quantitative Researcher at Citadel Securities"
