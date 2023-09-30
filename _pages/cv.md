@@ -41,7 +41,7 @@ Selected Publications
 
   * Hua Wang, **Sheng Gao**, Huanyu Zhang, Weijie J. Su, Milan Shen
 
-  * *Conference on Neural Information Processing Systems (NeuRIPS)*, 2023
+  * *Conference on Neural Information Processing Systems (NeurIPS)*, 2023
 
   
 Awards
