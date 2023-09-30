@@ -11,8 +11,10 @@ Teaching Assistant at University of Pennsylvania
 
 ### At Department of Computer and Information Science
 
-| Semester  | Course | Instructor  |
-|:--------:|:-------:|:--------:|
-| Spring 2021    | _CIS 399 Science of Data Ethics_   | Michael Kearns    |
-| Fall 2020    | _CIS 625 Theory of Machine Learning_  | Michael Kearns    |
+{% stripnewlines %}
+| Semester | Course | Instructor {% newline %}
+|:--------|:-------:|-------:# {% newline %}
+| Spring 2021 | _CIS 399 Science of Data Ethics_| Michael Kearns {% newline %}
+| Fall 2020 | _CIS 625 Theory of Machine Learning_ | Michael Kearns {% newline %}
+{% endstripnewlines %}  
 
