@@ -88,7 +88,7 @@ author:
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?user=cZrdt4EAAAAJ&hl=en"
   email            : "gaosheng0321@gmail.com"
-  researchgate     : "https://www.researchgate.net/profile/Sheng-Gao-25"
+  researchgate     : #"https://www.researchgate.net/profile/Sheng-Gao-25"
   uri              :
   bitbucket        :
   codepen          :
