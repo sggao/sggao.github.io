@@ -3,6 +3,9 @@ layout: archive
 title: "CV"
 permalink: /cv/
 author_profile: true
+redirect_from:
+  - /resume
+---
 
 
 {% include base_path %}
@@ -28,12 +31,14 @@ Work experience
 
 Selected Publications
 ======
-* [Sparse GCA and Thresholded Gradient Descent](https://www.jmlr.org/papers/v24/21-0745.html), 
+* [Sparse GCA and Thresholded Gradient Descent](https://www.jmlr.org/papers/v24/21-0745.html)
+
 **Sheng Gao**, Zongming Ma
 
 *Journal of Machine Learning Research (JMLR)*, 2023
 
-* [DP-HyPO: An Adaptive Private Hyperparameter Optimization Framework](https://arxiv.org/abs/2306.05734), 
+* [DP-HyPO: An Adaptive Private Hyperparameter Optimization Framework](https://arxiv.org/abs/2306.05734)
+
 Hua Wang, **Sheng Gao**, Huanyu Zhang, Weijie J. Su, Milan Shen
 
 *Conference on Neural Information Processing Systems (NeuRIPS)*, 2023
