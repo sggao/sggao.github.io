@@ -11,9 +11,9 @@ title                    : "Sheng Gao"
 title_separator          : "-"
 name                     : &name "Sheng Gao Personal Homepage"
 description              : &description "personal description"
-url                      : https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://ShengGao-wharton.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : https:ShengGao-wharton.github.io
+repository               : "ShengGao-wharton/ShengGao-wharton.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -96,22 +96,22 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "https://github.com/ShengGao-wharton"
+  github           : "ShengGao-wharton"
   google_plus      :
   keybase          :
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         : "https://www.linkedin.com/in/sheng-gao-8001aa146/"
+  linkedin         : "sheng-gao-8001aa146"
   orcid            : #"http://orcid.org/yourorcidurl"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "https://twitter.com/Shenggao10"
+  twitter          : "Shenggao10"
   vine             :
-  weibo            : "https://www.weibo.com/u/2737047161"
+  weibo            : "2737047161"
   xing             :
   youtube          :
   wikipedia        : 
