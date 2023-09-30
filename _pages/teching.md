@@ -1,6 +1,6 @@
 ---
-permalink: /teching/
-title: "Teching"
+permalink: /teaching/
+title: "Teaching"
 author_profile: true
 ---
 
