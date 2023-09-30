@@ -3,9 +3,7 @@ layout: archive
 title: "CV"
 permalink: /cv/
 author_profile: true
-<!-- redirect_from:
-  - /resume -->
----
+
 
 {% include base_path %}
 
@@ -21,11 +19,11 @@ Education
 
 Work experience
 ======
-* Summer 2023: Quantitative Research Intern
-  * Citadel Securities
+* Citadel Securities, Summer 2023, *Chicago, US*
+  * Quantitative Research Intern
 
-* Summer 2021: Deep Learning Researcher
-  * Baidu, NLP
+* Baidu, NLP, Summer 2021, *Shenzhen, China*
+  * Deep Learning Researcher
   
 
 Selected Publications
