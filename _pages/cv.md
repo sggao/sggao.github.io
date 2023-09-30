@@ -11,7 +11,7 @@ redirect_from:
 {% include base_path %}
 
 Education
-======
+------
 * **Ph.D in Statistics and Data Science**, Wharton School, University of Pennsylvania, 2018-2023
   * Advisor: Zongming Ma
 * **M.Math. in Mathematics**, University of Cambridge, 2017-2018
@@ -21,7 +21,7 @@ Education
   * Cambridge Overseas Trust Scholarship
 
 Work experience
-======
+------
 * Citadel Securities, Summer 2023, *Chicago, US*
   * Quantitative Research Intern
 
@@ -30,7 +30,7 @@ Work experience
   
 
 Selected Publications
-======
+------
 * [Sparse GCA and Thresholded Gradient Descent](https://www.jmlr.org/papers/v24/21-0745.html)
 
   * **Sheng Gao**, Zongming Ma
@@ -45,7 +45,7 @@ Selected Publications
 
   
 Awards
-======
+------
 * Prize Winner of Alibaba Mathematics Competition 2021
 * Winner of KDD Cup 2021, [Large Scale Graph Machine Learning Challenge](https://ogb.stanford.edu/kddcup2021/results/)
 * CTL Graduate Fellowship for Teaching Excellence, *University of Pennsylvania*, 2021
@@ -55,7 +55,7 @@ Awards
 * Braithwaite Prize (award to the College Top 1 in Mathematical Tripos), *University of Cambridge*, 2017
 
 Talks
-======
+------
 * AFTE Annual Conference, *Austin, US*, 2023
 * KDD, *Singapore*, 2021
 * Joint Statistics Meeting, *Philadelphia, US*, 2020
