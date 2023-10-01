@@ -4,7 +4,7 @@ title: "Teaching"
 author_profile: true
 ---
 
-Teaching Assistant at University of Pennsylvania
+Teaching Assistant at the University of Pennsylvania
 ------
 
 ### At Department of Statistics and Data Science
@@ -32,9 +32,10 @@ Teaching Awards
 ------
 
 * CTL (Center for Teaching & Learning) [Graduate Fellowship](https://ctl.upenn.edu/programs/grad-students/ctl-fellows/) for Teaching Excellence, *University of Pennsylvania*, 2021
-	* Nominated by department, first to receive this awards from Statistics Department in recent 10 years
-	* Organize teaching workshop across university
-	* observe graduate students teaching and offer feedback
-	
+	* Nominated by department, selected across university, first to receive this award from Statistics Department in recent 10 years
+	* Organize teaching workshops across university
+	* Present topics in teaching ideology and methodology
+	* Observe graduate students teaching and offer feedbacks
+
 * Donald S. Murray Award for excellence in teaching, *the Wharton School, University of Pennsylvania*, 2020
 
