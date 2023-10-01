@@ -7,7 +7,7 @@ author_profile: true
 Teaching Assistant at the University of Pennsylvania
 ------
 
-### At Department of Statistics and Data Science
+### Department of Statistics and Data Science
 
 |   Semester  |                     Course                     |    Instructor   |
 |:-----------:|:----------------------------------------------:|:---------------:|
@@ -20,7 +20,7 @@ Teaching Assistant at the University of Pennsylvania
 | Spring 2020 |             _STAT 430 Probability_             | Abba M. Krieger |
 |  Fall 2019  | _STAT 101 Introduction to Business Statistics_ |   Shuva Gupta   |
 
-### At Department of Computer and Information Science
+### Department of Computer and Information Science
 
 |   Semester  |                Course                |   Instructor   |
 |:-----------:|:------------------------------------:|:--------------:|
