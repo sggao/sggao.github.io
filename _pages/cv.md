@@ -39,7 +39,7 @@ Selected Publications
 * **Multi-modal Analysis of PNC Data via Sparse Generalized Correlation Analysis**. (2023) *In Submission.*
 
   * <ins>Sheng Gao</ins>, Fengling Hu, Theodore D. Satterthwaite, Russell T. Shinohara, and Zongming Ma
-  
+
 
 * **DP-HyPO: An Adaptive Private Hyperparameter Optimization Framework.** (2023). [[arXiv]](https://arxiv.org/abs/2306.05734) [[conference]](https://arxiv.org/abs/2306.05734) [[BibTex]](https://scholar.googleusercontent.com/scholar.bib?q=info:9cexp8L5MRsJ:scholar.google.com/&output=citation&scisdr=ClHSR4v_EN3f3LBwT-o:AFWwaeYAAAAAZRh2V-qsuUGeMDcc5vYTExVHDSM&scisig=AFWwaeYAAAAAZRh2V9KmW1ShSV1zrU_SNjvslvI&scisf=4&ct=citation&cd=-1&hl=en)
 
@@ -53,7 +53,7 @@ Awards
 * Prize Winner of Alibaba Mathematics Competition 2021
 * Winner of KDD Cup 2021, [Large Scale Graph Machine Learning Challenge](https://ogb.stanford.edu/kddcup2021/results/)
 * CTL Graduate Fellowship for Teaching Excellence, *University of Pennsylvania*, 2021
-* Donald S. Murray Award for excellence in teaching
+* Donald S. Murray Award for excellence in teaching, *the Wharton School, University of Pennsylvania*, 2020
 * First Place winner in  [Wellcome Data Re-use Research Competition for Malaria](https://www.synapse.org/#!Synapse:syn18379247/wiki/588810), 2019 
 * Cambridge Overseas Trust Scholarship, 2014-2018
 * Braithwaite Prize (award to the College Top 1 in Mathematical Tripos), *University of Cambridge*, 2017
