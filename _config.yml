@@ -6,7 +6,7 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-locale                   : "Chicago, US"
+locale                   : "Miami, US"
 title                    : "Sheng Gao's Personal Homepage"
 title_separator          : "-"
 name                     : &name "Sheng Gao"
@@ -83,12 +83,12 @@ author:
   name             : "Sheng Gao"
   avatar           : "headshot.png"
   bio              : "Quantitative Researcher at Citadel Securities"
-  location         : "Chicago, IL"
+  location         : "Miami, FL"
   employer         : Citadel Securities
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?user=cZrdt4EAAAAJ&hl=en"
   email            : "gaosheng0321@gmail.com"
-  researchgate     : #"https://www.researchgate.net/profile/Sheng-Gao-25"
+  researchgate     : "https://www.researchgate.net/profile/Sheng-Gao-25"
   uri              :
   bitbucket        :
   codepen          :
@@ -103,7 +103,7 @@ author:
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         : "sheng-gao-8001aa146"
-  orcid            : #"http://orcid.org/yourorcidurl"
+  orcid            : "https://orcid.org/0000-0002-6191-6843"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
