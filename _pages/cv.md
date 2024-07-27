@@ -36,6 +36,12 @@ Selected Publications
 
   * _Journal of Machine Learning Research_ (JMLR)
 
+* **An algorithm for forensic toolmark comparisons.** (2024). [[arXiv]](https://arxiv.org/abs/2312.00032) [[journal]](https://www.sciencedirect.com/science/article/pii/S2589871X24000901) [[BibTex]](https://scholar.googleusercontent.com/scholar.bib?q=info:_IiNaypbQkYJ:scholar.google.com/&output=citation&scisdr=ClHcv9QfEID3hxBTZ7Y:AFWwaeYAAAAAZqRVf7Zdm8qWDIi7emh7jsKP-Zg&scisig=AFWwaeYAAAAAZqRVfwpGskmzILnkW4mysdxlCa8&scisf=4&ct=citation&cd=-1&hl=en) [[talk]](https://publichealth.jhu.edu/events/2024/biostatistics-dept-seminar-introducing-forensic-science-to-biostatistics-a-method-for-forensic-toolmark-comparisons)
+
+  * Maria Cuellar, <ins>Sheng Gao</ins>, Heike Hofmann.
+
+  * _Forensic Science International: Synergy_ (FSI Synergy)
+
 * **Multi-modal Analysis of PNC Data via Sparse Generalized Correlation Analysis**. (2023) *In Submission.*
 
   * <ins>Sheng Gao</ins>, Fengling Hu, Theodore D. Satterthwaite, Russell T. Shinohara, Zongming Ma.
