@@ -52,6 +52,12 @@ Selected Publications
 
   * _Conference on Neural Information Processing Systems_ (NeurIPS)
 
+Posters
+------
+* **DP-HyPO: An Adaptive Private Hyperparameter Optimization Framework.** [NeuRIPS 2023](https://neurips.cc/virtual/2023/poster/72902)
+* **Sparse GCA and Thresholded Gradient Descent.** [JSM 2020](https://ww2.amstat.org/meetings/jsm/2020/onlineprogram/AbstractDetails.cfm?abstractid=313168)
+
+
   
 Awards
 ------
