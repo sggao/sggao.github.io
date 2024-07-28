@@ -19,13 +19,17 @@ Education
   * Class I in Mathematical Tripos (2015, 2016, 2017)
   * Cambridge Overseas Trust Scholarship
 
-Work experience
+Work Experience
 ------
 * Citadel Securities, *Summer 2023, Chicago, US*
   * Quantitative Research Intern
+  * Systematic Equities
 
 * Baidu Natural Language Processing (NLP), *Summer 2021, Shenzhen, China*
   * Deep Learning Researcher
+  * Winner (2nd place) in KDD Cup 2021, *Open Graph Benchmark* [OGB-LSC Challenge](https://ogb.stanford.edu/kddcup2021/results/#final_pcqm4m)
+  * HOMO-LUMO gap prediction with [LiteGEM](https://arxiv.org/abs/2106.14494)
+  * Code available [here](https://github.com/PaddlePaddle/PaddleHelix/tree/dev/competition/kddcup2021-PCQM4M-LSC)
   
 
 Selected Publications
