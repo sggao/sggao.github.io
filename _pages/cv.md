@@ -21,7 +21,7 @@ Education
 
 Work Experience
 ------
-* Citadel Securities, *Summer 2023, Chicago, US*
+* Citadel Securities, *Summer 2022, Chicago, US*
   * Quantitative Research Intern
   * Systematic Equities
 
