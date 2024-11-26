@@ -33,4 +33,4 @@ Contact Information
 
 Miscellaneous
 ------
-<script type="text/javascript" id="clstr_globe" src="//clustrmaps.com/globe.js?d=2iw2XP_utWRCBNXiJUC4OSiKmFL3rxa7VdLEciAddmA"></script>
+<script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=2iw2XP_utWRCBNXiJUC4OSiKmFL3rxa7VdLEciAddmA&cl=ffffff&w=a"></script>
