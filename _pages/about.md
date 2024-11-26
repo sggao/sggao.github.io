@@ -30,3 +30,7 @@ Research Interests
 Contact Information
 ------
 * Email: gaosheng0321 *at* gmail *dot* com
+
+Miscellaneous
+------
+<script type="text/javascript" id="clstr_globe" src="//clustrmaps.com/globe.js?d=2iw2XP_utWRCBNXiJUC4OSiKmFL3rxa7VdLEciAddmA"></script>
