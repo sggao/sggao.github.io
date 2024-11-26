@@ -31,6 +31,3 @@ Contact Information
 ------
 * Email: gaosheng0321 *at* gmail *dot* com
 
-Miscellaneous
-------
-<script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=2iw2XP_utWRCBNXiJUC4OSiKmFL3rxa7VdLEciAddmA&cl=ffffff&w=a"></script>
