@@ -34,7 +34,7 @@ Work Experience
 
 Selected Publications
 ------
-* **Sparse GCA and Thresholded Gradient Descent.** (2021). [[arXiv]](https://arxiv.org/abs/2107.00371) [[journal]](https://www.jmlr.org/papers/v24/21-0745.html) [[BibTex]](https://scholar.googleusercontent.com/scholar.bib?q=info:i4acD0E2b8kJ:scholar.google.com/&output=citation&scisdr=ClHSR4v_EN3f3LBzvys:AFWwaeYAAAAAZRh1pyvGbrFJwDFuKfXkZvzGfJc&scisig=AFWwaeYAAAAAZRh1p6KeiD7Hsm8YAjjYNNFe20E&scisf=4&ct=citation&cd=-1&hl=en) [[software]](https://github.com/ShengGao-wharton/Sparse-Generalized-Correlation-Analysis) [[talk]](https://ww2.amstat.org/meetings/jsm/2020/onlineprogram/AbstractDetails.cfm?abstractid=313168)
+* **Sparse GCA and Thresholded Gradient Descent.** (2023). [[arXiv]](https://arxiv.org/abs/2107.00371) [[journal]](https://www.jmlr.org/papers/v24/21-0745.html) [[BibTex]](https://scholar.googleusercontent.com/scholar.bib?q=info:i4acD0E2b8kJ:scholar.google.com/&output=citation&scisdr=ClHSR4v_EN3f3LBzvys:AFWwaeYAAAAAZRh1pyvGbrFJwDFuKfXkZvzGfJc&scisig=AFWwaeYAAAAAZRh1p6KeiD7Hsm8YAjjYNNFe20E&scisf=4&ct=citation&cd=-1&hl=en) [[software]](https://github.com/ShengGao-wharton/Sparse-Generalized-Correlation-Analysis) [[talk]](https://ww2.amstat.org/meetings/jsm/2020/onlineprogram/AbstractDetails.cfm?abstractid=313168)
 
   * <ins>Sheng Gao</ins>, Zongming Ma.
   * _Journal of Machine Learning Research_ (JMLR)
