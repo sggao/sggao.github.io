@@ -46,7 +46,7 @@ Selected Publications
 
 * **Cross-domain information fusion for enhanced cell population delineation in single-cell spatial-omics data.** (2025). [[bioRxiv]](https://www.biorxiv.org/content/10.1101/2024.05.12.593710v1) [[Python Package]](https://github.com/sggao/celllens) [[BibTex]](https://scholar.googleusercontent.com/scholar.bib?q=info:Gfl6D_hNNGkJ:scholar.google.com/&output=citation&scisdr=ClEvk1T0EIjGxE-2eA8:AFWwaeYAAAAAZ_KwYA8VlVjOSl-PiJ0AXtnv2F0&scisig=AFWwaeYAAAAAZ_KwYMvWrGazQs5w9M7umRQDOlY&scisf=4&ct=citation&cd=-1&hl=en&scfhb=1)
 
-  * Bokai Zhu, <ins>Sheng Gao<ins>, Shuxiao Chen, Jason Yeung, Yunhao Bai, Amy Y Huang, Yao Yu Yeo, Guanrui Liao, Shulin Mao, Zhenghui G Jiang, Scott J Rodig, Alex K Shalek, Garry P Nolan, Sizun Jiang, Zongming Ma.
+  * Bokai Zhu, <ins>Sheng Gao</ins>, Shuxiao Chen, Jason Yeung, Yunhao Bai, Amy Y Huang, Yao Yu Yeo, Guanrui Liao, Shulin Mao, Zhenghui G Jiang, Scott J Rodig, Alex K Shalek, Garry P Nolan, Sizun Jiang, Zongming Ma.
   * _Nature Immunology_
 
 * **DP-HyPO: An Adaptive Private Hyperparameter Optimization Framework.** (2023). [[arXiv]](https://arxiv.org/abs/2306.05734) [[conference]](https://nips.cc/virtual/2023/poster/72902) [[BibTex]](https://scholar.googleusercontent.com/scholar.bib?q=info:9cexp8L5MRsJ:scholar.google.com/&output=citation&scisdr=ClHSR4v_EN3f3LBwT-o:AFWwaeYAAAAAZRh2V-qsuUGeMDcc5vYTExVHDSM&scisig=AFWwaeYAAAAAZRh2V9KmW1ShSV1zrU_SNjvslvI&scisf=4&ct=citation&cd=-1&hl=en)
@@ -54,7 +54,7 @@ Selected Publications
   * Hua Wang, <ins>Sheng Gao</ins>, Huanyu Zhang, Weijie J. Su, Milan Shen.
   * _Conference on Neural Information Processing Systems_ (NeurIPS)
 
-* **Multi-modal Analysis of PNC Data via Sparse Generalized Correlation Analysis**. (2023) *In Preparation.*
+* **Multi-modal Analysis of PNC Data via Sparse Generalized Correlation Analysis**. (2025+) *In Preparation.*
   * <ins>Sheng Gao</ins>, Fengling Hu, Theodore D. Satterthwaite, Russell T. Shinohara, Zongming Ma.
 
 Posters
