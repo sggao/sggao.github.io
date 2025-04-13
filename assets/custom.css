@@ -14,20 +14,20 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 /* 更强优先级的选择器，确保覆盖默认样式 */
-/*.sidebar .author__avatar img,
+.sidebar .author__avatar img,
 .page__hero--overlay .author__avatar img,
 .author__avatar img {
   width: 180px !important;
   height: 180px !important;
   max-width: none !important;
   object-fit: cover;
-  border-radius: 50%;
+  border-radius: 60%;
   margin: 1.5rem auto;
   display: block;
   box-shadow: 0 0 12px rgba(0, 0, 0, 0.2) !important;
 }
 
-/* 居中容器 */
+/* 居中容器 
 /*.author__avatar {
   display: flex;
   justify-content: center;
