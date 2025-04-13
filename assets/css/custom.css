@@ -1,9 +1,5 @@
 // assets/css/custom.scss
 
-// 引入现代字体
-@import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;600&display=swap');
-@import url('https://fonts.googleapis.com/css2?family=Playfair+Display:wght@600&display=swap');
-
 // 正文使用 Inter，标题使用 Playfair Display（或你喜欢的）
 body {
   font-family: 'Inter', 'Helvetica Neue', Helvetica, Arial, sans-serif;
