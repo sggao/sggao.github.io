@@ -31,28 +31,28 @@ h1, h2, h3, h4, h5, h6 {
 /* 暗色按钮样式 */
 #dark-toggle {
   position: fixed;
-  bottom: 20px;
-  right: 20px;
+  bottom: 32px;       /* 距离底部更远一点 */
+  right: 32px;        /* 更加内收，不贴屏幕边缘 */
   z-index: 9999;
 
-  width: 48px;
-  height: 48px;
-  font-size: 1.6rem;
+  width: 52px;
+  height: 52px;
+  font-size: 1.5rem;
 
-  background-color: #f0f0f0;
-  color: #111;
+  background-color: #f5f5f5;
+  color: #222;
   border: none;
   border-radius: 50%;
 
-  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.15);
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.15);
   cursor: pointer;
 
-  transition: background 0.3s, transform 0.2s;
+  transition: transform 0.2s ease, background-color 0.3s;
 }
 
 #dark-toggle:hover {
-  background-color: #e0e0e0;
   transform: scale(1.1);
+  background-color: #e0e0e0;
 }
 
 html.dark #dark-toggle {
