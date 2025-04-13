@@ -137,9 +137,9 @@ header.masthead .site-nav {
 }
 
 .page__content a {
+  text-decoration: none;
   position: relative;
   display: inline-block;
-  text-decoration: none;
   color: inherit;
 }
 
@@ -148,10 +148,10 @@ header.masthead .site-nav {
   position: absolute;
   left: 0;
   bottom: 0;
-  width: 0%;
+  width: 0;
   height: 1.5px;
-  background-color: #6ea8fe; /* 淡蓝色比原来的更柔和 */
-  transition: width 0.25s ease;
+  background-color: #6ea8fe;
+  transition: width 0.3s ease;
   border-radius: 1px;
   opacity: 0.8;
 }
