@@ -124,18 +124,16 @@ html.dark header.masthead {
   box-shadow: 0 1px 4px rgba(0, 0, 0, 0.2);
 }
 
-nav.masthead__menu a,
-header.masthead .masthead__menu a,
-header.masthead .site-title a,
+header.masthead,
+header.masthead *,
+header.masthead a,
+header.masthead nav,
+header.masthead nav a,
 header.masthead .site-title,
-.masthead__inner-wrap a,
-.site-nav a {
+header.masthead .site-nav {
   font-family: 'Inter', sans-serif !important;
-  font-weight: 500 !important;
-  font-size: 1rem !important;
-  letter-spacing: 0 !important;
-  text-transform: none !important;
+  background-color: #1a1a1a !important; /* 暗色模式下背景 */
+  color: #ffffff !important;
 }
-
 
 
