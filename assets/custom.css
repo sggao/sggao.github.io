@@ -33,6 +33,7 @@ h1, h2, h3, h4, h5, h6 {
   position: fixed !important;
   bottom: 32px !important;
   right: 32px !important;
+  left: auto !important;  /* ✅ 关键：避免主题将按钮强行放在左下角 */
   z-index: 9999 !important;
 
   width: 52px !important;
@@ -49,6 +50,7 @@ h1, h2, h3, h4, h5, h6 {
 
   transition: transform 0.2s ease, background-color 0.3s !important;
 }
+
 
 #dark-toggle:hover {
   transform: scale(1.1);
