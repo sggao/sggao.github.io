@@ -66,6 +66,21 @@ html.dark .masthead a:hover {
   color: #8ab4f8 !important;
 }
 
+html.dark .masthead,
+html.dark .masthead__inner-wrap {
+  background-color: #1a1a1a !important;
+  border-bottom: 1px solid #333;
+}
+
+html.dark .site-title,
+html.dark .masthead__inner-wrap a {
+  color: #ffffff !important;
+}
+
+html.dark .masthead__inner-wrap a:hover {
+  color: #8ab4f8 !important;
+}
+
 html.dark .site-title {
   color: #ffffff !important;
 }
