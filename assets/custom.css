@@ -51,17 +51,20 @@ html.dark h1, html.dark h2, html.dark h3 {
 
 /* ===== 顶部导航栏在暗色模式下的样式 ===== */
 /* Top navigation bar - dark mode */
-html.dark .masthead,
-html.dark .masthead__inner-wrap {
+/* ===== 修复暗色模式下导航栏显示异常的问题 ===== */
+html.dark header.masthead,
+html.dark header.masthead .masthead__inner-wrap {
   background-color: #1a1a1a !important;
-  border-bottom: 1px solid #333 !important;
 }
 
-html.dark .masthead__inner-wrap a,
-html.dark .site-title {
+html.dark header.masthead a,
+html.dark header.masthead .site-title {
   color: #ffffff !important;
 }
 
-html.dark .masthead__inner-wrap a:hover {
+html.dark header.masthead a:hover {
   color: #8ab4f8 !important;
 }
+
+
+
