@@ -1,35 +1,27 @@
 (function () {
-  function enableDark() {
+  if (document.getElementById("dark-toggle")) return;  // ✅ 避免重复插入
+
+  const toggle = document.createElement("button");
+  toggle.innerHTML = "🌓";
+  toggle.id = "dark-toggle";
+  toggle.title = "Toggle dark mode";
+  document.body.appendChild(toggle);
+
+  const enableDark = () => {
     document.documentElement.classList.add("dark");
     localStorage.setItem("theme", "dark");
-  }
+  };
 
-  function disableDark() {
+  const disableDark = () => {
     document.documentElement.classList.remove("dark");
     localStorage.setItem("theme", "light");
-  }
+  };
 
-  function toggleDarkMode() {
-    if (document.documentElement.classList.contains("dark")) {
-      disableDark();
-    } else {
-      enableDark();
-    }
-  }
+  toggle.onclick = () => {
+    document.documentElement.classList.contains("dark") ? disableDark() : enableDark();
+  };
 
-  function setupButton() {
-    const toggle = document.createElement("button");
-    toggle.innerHTML = "🌓";
-    toggle.id = "dark-toggle";
-    toggle.title = "Toggle dark mode";
-    document.body.appendChild(toggle);
-    toggle.addEventListener("click", toggleDarkMode);
+  if (localStorage.getItem("theme") === "dark") {
+    enableDark();
   }
-
-  document.addEventListener("DOMContentLoaded", function () {
-    if (localStorage.getItem("theme") === "dark") {
-      enableDark();
-    }
-    setupButton();
-  });
 })();
