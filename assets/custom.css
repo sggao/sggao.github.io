@@ -124,14 +124,8 @@ html.dark header.masthead {
   box-shadow: 0 1px 4px rgba(0, 0, 0, 0.2);
 }
 
-/* 强制覆盖导航栏字体为 Inter */
-.masthead .site-title,
-.masthead .site-nav,
-.masthead__menu,
-.masthead__menu-item,
-.masthead__menu-item a {
-  font-family: 'Inter', sans-serif !important;
-  font-weight: 600 !important;
+:root {
+  --mm-font-stack-sans: 'Inter', sans-serif;
 }
 
 
