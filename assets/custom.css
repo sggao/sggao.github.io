@@ -48,3 +48,18 @@ html.dark a {
 html.dark h1, html.dark h2, html.dark h3 {
   color: #ffffff;
 }
+
+/* ===== 顶部导航栏在暗色模式下的样式 ===== */
+html.dark .masthead {
+  background-color: #1e1e1e;
+  border-bottom: 1px solid #333;
+}
+
+html.dark .masthead__inner-wrap a,
+html.dark .masthead__inner-wrap .site-title {
+  color: #f1f1f1 !important;
+}
+
+html.dark .masthead__inner-wrap a:hover {
+  color: #8ab4f8;
+}
