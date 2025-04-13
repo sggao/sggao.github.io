@@ -117,6 +117,10 @@ html.dark td {
   border-color: #444;
 }
 
+.masthead__inner-wrap {
+  max-width: 960px;
+  margin: 0 auto;
+}
 
 
 
