@@ -21,3 +21,30 @@ h1, h2, h3, h4, h5, h6 {
   border-radius: 50%;
   margin: 1.5rem auto;
 }
+
+/* 暗色按钮样式 */
+#dark-toggle {
+  position: fixed;
+  bottom: 20px;
+  right: 20px;
+  font-size: 1.5rem;
+  background: #eee;
+  border: 1px solid #999;
+  padding: 0.4rem 0.6rem;
+  border-radius: 0.5rem;
+  cursor: pointer;
+  z-index: 9999;
+}
+
+html.dark body {
+  background-color: #121212;
+  color: #e0e0e0;
+}
+
+html.dark a {
+  color: #8ab4f8;
+}
+
+html.dark h1, html.dark h2, html.dark h3 {
+  color: #ffffff;
+}
