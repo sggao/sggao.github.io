@@ -63,3 +63,11 @@ html.dark .masthead__inner-wrap .site-title {
 html.dark .masthead__inner-wrap a:hover {
   color: #8ab4f8;
 }
+
+html.dark .site-title {
+  color: #ffffff !important;
+}
+
+html.dark .site-title:hover {
+  color: #8ab4f8 !important;
+}
