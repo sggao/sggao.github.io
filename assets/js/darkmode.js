@@ -80,7 +80,9 @@
   toggle.style.boxShadow = "0 4px 12px rgba(0, 0, 0, 0.15)";
   toggle.style.cursor = "pointer";
   toggle.style.lineHeight = "52px";
-  toggle.style.textAlign = "center";
+  toggle.style.display = "flex";
+  toggle.style.alignItems = "center";
+  toggle.style.justifyContent = "center";
 
   document.body.appendChild(toggle);
   toggle.addEventListener("click", toggleDarkMode);
