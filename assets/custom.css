@@ -66,5 +66,24 @@ html.dark header.masthead a:hover {
   color: #8ab4f8 !important;
 }
 
+/* 表格头部样式：暗色模式 */
+html.dark table th {
+  background-color: #2a2a2a !important;
+  color: #ffffff !important;
+}
+
+/* 表格内容背景（可选） */
+html.dark table td {
+  background-color: #1e1e1e;
+  color: #e0e0e0;
+}
+
+/* 表格边框（可选） */
+html.dark table,
+html.dark th,
+html.dark td {
+  border-color: #444;
+}
+
 
 
