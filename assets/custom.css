@@ -52,9 +52,10 @@ html.dark h1, html.dark h2, html.dark h3 {
 /* ===== 顶部导航栏在暗色模式下的样式 ===== */
 /* 暗色模式下顶部导航栏背景和链接颜色 */
 html.dark .masthead {
-  background-color: #1c1c1c;
+  background-color: #1a1a1a !important;
   border-bottom: 1px solid #333;
 }
+
 
 html.dark .masthead a,
 html.dark .site-title {
