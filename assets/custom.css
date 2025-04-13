@@ -139,6 +139,11 @@ header.masthead *:not(svg):not(path) {
   font-family: 'Inter', sans-serif !important;
 }
 
+.masthead__menu-item a {
+  text-transform: none !important;
+  letter-spacing: 0px !important;
+  font-size: 1rem !important;
+}
 
 
 
