@@ -124,19 +124,15 @@ html.dark header.masthead {
   box-shadow: 0 1px 4px rgba(0, 0, 0, 0.2);
 }
 
-:root {
-  --mm-font-stack-sans: 'Inter', sans-serif;
-}
-html.dark {
-  --mm-font-stack-sans: 'Inter', sans-serif;
-}
-.site-title,
-.site-nav,
-.masthead__menu,
-.masthead__menu-item,
-.masthead__menu-item a {
+header.masthead .site-title,
+header.masthead .site-nav,
+header.masthead .masthead__menu,
+header.masthead .masthead__menu-item,
+header.masthead .masthead__menu-item a,
+nav .site-nav,
+nav .masthead__menu-item a {
   font-family: 'Inter', sans-serif !important;
-  font-weight: 600;
+  font-weight: 600 !important;
 }
 
 
