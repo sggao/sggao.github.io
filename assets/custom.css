@@ -50,27 +50,18 @@ html.dark h1, html.dark h2, html.dark h3 {
 }
 
 /* ===== 顶部导航栏在暗色模式下的样式 ===== */
-/* 暗色模式下顶部导航栏背景和链接颜色 */
-/* ✅ 修复导航栏在暗色模式下背景和文字 */
+/* Top navigation bar - dark mode */
 html.dark .masthead,
 html.dark .masthead__inner-wrap {
   background-color: #1a1a1a !important;
   border-bottom: 1px solid #333 !important;
 }
 
-html.dark .site-title,
-html.dark .masthead__inner-wrap a {
-  color: #ffffff !important;
-}
-
-html.dark .masthead__inner-wrap a:hover {
-  color: #8ab4f8 !important;
-}
-
+html.dark .masthead__inner-wrap a,
 html.dark .site-title {
   color: #ffffff !important;
 }
 
-html.dark .site-title:hover {
+html.dark .masthead__inner-wrap a:hover {
   color: #8ab4f8 !important;
 }
