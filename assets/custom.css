@@ -136,4 +136,24 @@ header.masthead .site-nav {
   color: #ffffff !important;
 }
 
+a {
+  text-decoration: none;
+  position: relative;
+}
+
+a::after {
+  content: "";
+  position: absolute;
+  width: 0%;
+  height: 2px;
+  bottom: -2px;
+  left: 0;
+  background-color: #8ab4f8;
+  transition: width 0.3s;
+}
+
+a:hover::after {
+  width: 100%;
+}
+
 
