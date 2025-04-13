@@ -1,28 +1,44 @@
-<!-- Modern fonts: Inter for body, Playfair Display for headers -->
+<!-- 加载现代字体 -->
 <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;600&family=Playfair+Display:wght@600&display=swap" rel="stylesheet">
 
 <style>
+  /* 正文字体 */
   body {
     font-family: 'Inter', 'Helvetica Neue', Helvetica, Arial, sans-serif;
     font-size: 16px;
     line-height: 1.7;
     color: #2a2a2a;
+    background-color: #fff;
+    max-width: 900px;
+    margin: 0 auto;
+    padding: 1.5rem;
   }
 
+  /* 标题字体 */
   h1, h2, h3, h4, h5, h6 {
     font-family: 'Playfair Display', serif;
     font-weight: 600;
     color: #1a1a1a;
-    margin-top: 1.8rem;
+    margin-top: 2rem;
     margin-bottom: 1rem;
   }
 
+  /* 链接颜色 */
+  a {
+    color: #0056cc;
+    text-decoration: none;
+  }
+  a:hover {
+    text-decoration: underline;
+  }
+
+  /* 头像样式优化 */
   .author__avatar img {
+    display: block;
     width: 120px;
     height: 120px;
     object-fit: cover;
     border-radius: 50%;
-    display: block;
     margin: 1.5rem auto;
   }
 </style>
