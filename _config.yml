@@ -191,6 +191,10 @@ collections:
 
 # Defaults
 defaults:
+  - scope:
+      path: ""
+    values:
+      custom_css: "assets/custom.css"
   # _posts
   - scope:
       path: ""
