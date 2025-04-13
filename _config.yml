@@ -255,7 +255,7 @@ defaults:
       path: ""
     values:
       layout: default
-      custom_css: "assets/css/custom.css"
+      custom_css: "assets/custom.css"
 
 # Outputting
 permalink: /:categories/:title/
