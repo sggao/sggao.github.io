@@ -91,21 +91,6 @@ html.dark td {
   border-color: #444;
 }
 
-.masthead__inner-wrap {
-  max-width: 960px;
-  margin: 0 auto;
-}
-
-a.btn {
-  background-color: #005aff;
-  color: white;
-  padding: 0.5rem 1rem;
-  border-radius: 6px;
-  transition: background 0.2s ease;
-}
-a.btn:hover {
-  background-color: #003dcc;
-}
 
 
 
