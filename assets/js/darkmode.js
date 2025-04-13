@@ -1,4 +1,4 @@
-(function() {
+document.addEventListener("DOMContentLoaded", function () {
   const toggle = document.createElement("button");
   toggle.innerHTML = "🌓";
   toggle.id = "dark-toggle";
@@ -19,8 +19,7 @@
     document.documentElement.classList.contains("dark") ? disableDark() : enableDark();
   };
 
-  // Load preference
   if (localStorage.getItem("theme") === "dark") {
     enableDark();
   }
-})();
+});
