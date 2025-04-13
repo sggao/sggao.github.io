@@ -81,7 +81,7 @@ html.dark h1, html.dark h2, html.dark h3 {
 /* ===== 顶部导航栏在暗色模式下的样式 ===== */
 /* Top navigation bar - dark mode */
 /* ===== 修复暗色模式下导航栏显示异常的问题 ===== */
-/*html.dark header.masthead,
+html.dark header.masthead,
 html.dark header.masthead .masthead__inner-wrap {
   background-color: #1a1a1a !important;
 }
@@ -93,7 +93,7 @@ html.dark header.masthead .site-title {
 
 html.dark header.masthead a:hover {
   color: #8ab4f8 !important;
-}*/
+}
 
 /* 表格头部样式：暗色模式 */
 html.dark table th {
