@@ -127,6 +127,18 @@ html.dark header.masthead {
 :root {
   --mm-font-stack-sans: 'Inter', sans-serif;
 }
+html.dark {
+  --mm-font-stack-sans: 'Inter', sans-serif;
+}
+.site-title,
+.site-nav,
+.masthead__menu,
+.masthead__menu-item,
+.masthead__menu-item a {
+  font-family: 'Inter', sans-serif !important;
+  font-weight: 600;
+}
+
 
 
 
