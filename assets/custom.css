@@ -136,14 +136,14 @@ header.masthead .site-nav {
   color: #ffffff !important;
 }
 
-.page__content a {
+a {
   text-decoration: none;
   position: relative;
   display: inline-block;
   color: inherit;
 }
 
-.page__content a::after {
+a::after {
   content: "";
   position: absolute;
   left: 0;
@@ -156,7 +156,7 @@ header.masthead .site-nav {
   opacity: 0.8;
 }
 
-.page__content a:hover::after {
+a:hover::after {
   width: 100%;
 }
 
