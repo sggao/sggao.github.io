@@ -141,27 +141,32 @@ a {
   text-decoration: none !important;
 }
 
-
+/* 正文链接：展开式动画线条 */
 .page__content a {
   position: relative;
   display: inline-block;
+  color: #0056d2;
+  font-weight: 500;
   text-decoration: none;
-  color: #0056d2; /* 更深蓝色，更稳重 */
 }
 
+/* 真正美观优雅的动画线条 */
 .page__content a::after {
   content: "";
   position: absolute;
   left: 0;
-  bottom: -3px;  /* 与文字底部留出空间 */
-  width: 0%;
-  height: 1px;   /* 更细更优雅 */
+  bottom: 0;
+  width: 100%;
+  height: 2px;
   background-color: #0056d2;
-  opacity: 0.6;
-  transition: width 0.25s ease, opacity 0.25s ease;
+  transform: scaleX(0);
+  transform-origin: left center;
+  transition: transform 0.3s ease;
+  opacity: 0.8;
 }
 
+/* 悬停时“拉开”线条 */
 .page__content a:hover::after {
-  width: 100%;
+  transform: scaleX(1);
   opacity: 1;
 }
