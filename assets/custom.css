@@ -141,16 +141,14 @@ a {
   text-decoration: none !important;
 }
 
-/* 正文链接：展开式动画线条 */
 .page__content a {
-  position: relative;
-  display: inline-block;
+  text-decoration: none;
   color: #0056d2;
   font-weight: 500;
-  text-decoration: none;
+  position: relative;
+  display: inline-block;
 }
 
-/* 真正美观优雅的动画线条 */
 .page__content a::after {
   content: "";
   position: absolute;
@@ -162,11 +160,13 @@ a {
   transform: scaleX(0);
   transform-origin: left center;
   transition: transform 0.3s ease;
-  opacity: 0.8;
+  opacity: 0;
+  visibility: hidden;  /* ✅ 彻底隐藏 */
 }
 
-/* 悬停时“拉开”线条 */
 .page__content a:hover::after {
   transform: scaleX(1);
   opacity: 1;
+  visibility: visible; /* ✅ 显示时才出现 */
 }
+
