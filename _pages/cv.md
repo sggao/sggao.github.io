@@ -44,7 +44,7 @@ Selected Publications
   * Maria Cuellar, <ins>Sheng Gao</ins>, Heike Hofmann.
   * _Forensic Science International: Synergy_ (FSI Synergy)
 
-* **Cross-domain information fusion for enhanced cell population delineation in single-cell spatial-omics data.** (2025). [[bioRxiv]](https://www.biorxiv.org/content/10.1101/2024.05.12.593710v1) [[Python Package]](https://github.com/sggao/celllens) [[BibTex]](https://scholar.googleusercontent.com/scholar.bib?q=info:Gfl6D_hNNGkJ:scholar.google.com/&output=citation&scisdr=ClEvk1T0EIjGxE-2eA8:AFWwaeYAAAAAZ_KwYA8VlVjOSl-PiJ0AXtnv2F0&scisig=AFWwaeYAAAAAZ_KwYMvWrGazQs5w9M7umRQDOlY&scisf=4&ct=citation&cd=-1&hl=en&scfhb=1)
+* **CellLENS enables cross-domain information fusion for enhanced cell population delineation in single-cell spatial omics data.** (2025). [[bioRxiv]](https://www.biorxiv.org/content/10.1101/2024.05.12.593710v1) [[journal]](https://www.nature.com/articles/s41590-025-02163-1) [[Python Package]](https://github.com/sggao/celllens) [[BibTex]](https://scholar.googleusercontent.com/scholar.bib?q=info:Gfl6D_hNNGkJ:scholar.google.com/&output=citation&scisdr=ClEvk1T0EIjGxE-2eA8:AFWwaeYAAAAAZ_KwYA8VlVjOSl-PiJ0AXtnv2F0&scisig=AFWwaeYAAAAAZ_KwYMvWrGazQs5w9M7umRQDOlY&scisf=4&ct=citation&cd=-1&hl=en&scfhb=1)
 
   * Bokai Zhu, <ins>Sheng Gao</ins>, Shuxiao Chen, Jason Yeung, Yunhao Bai, Amy Y Huang, Yao Yu Yeo, Guanrui Liao, Shulin Mao, Zhenghui G Jiang, Scott J Rodig, Alex K Shalek, Garry P Nolan, Sizun Jiang, Zongming Ma.
   * _Nature Immunology_
