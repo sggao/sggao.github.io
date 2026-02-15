@@ -13,15 +13,15 @@ Selected Publications
   * **Sheng Gao**, Zongming Ma.
   * _Journal of Machine Learning Research_ (JMLR)
 
-* **An algorithm for forensic toolmark comparisons.** (2024). [[arXiv]](https://arxiv.org/abs/2312.00032) [[journal]](https://www.sciencedirect.com/science/article/pii/S2589871X24000901) [[BibTex]](https://scholar.googleusercontent.com/scholar.bib?q=info:_IiNaypbQkYJ:scholar.google.com/&output=citation&scisdr=ClHcv9QfEID3hxBTZ7Y:AFWwaeYAAAAAZqRVf7Zdm8qWDIi7emh7jsKP-Zg&scisig=AFWwaeYAAAAAZqRVfwpGskmzILnkW4mysdxlCa8&scisf=4&ct=citation&cd=-1&hl=en) [[talk]](https://publichealth.jhu.edu/events/2024/biostatistics-dept-seminar-introducing-forensic-science-to-biostatistics-a-method-for-forensic-toolmark-comparisons)
-
-  * Maria Cuellar, **Sheng Gao**, Heike Hofmann.
-  * _Forensic Science International: Synergy_ (FSI Synergy)
-
 * **CellLENS enables cross-domain information fusion for enhanced cell population delineation in single-cell spatial omics data.** (2025). [[bioRxiv]](https://www.biorxiv.org/content/10.1101/2024.05.12.593710v1) [[journal]](https://www.nature.com/articles/s41590-025-02163-1) [[Python Package]](https://github.com/sggao/celllens) [[BibTex]](https://scholar.googleusercontent.com/scholar.bib?q=info:Gfl6D_hNNGkJ:scholar.google.com/&output=citation&scisdr=ClEvk1T0EIjGxE-2eA8:AFWwaeYAAAAAZ_KwYA8VlVjOSl-PiJ0AXtnv2F0&scisig=AFWwaeYAAAAAZ_KwYMvWrGazQs5w9M7umRQDOlY&scisf=4&ct=citation&cd=-1&hl=en&scfhb=1)
 
   * Bokai Zhu, **Sheng Gao**, Shuxiao Chen, Jason Yeung, Yunhao Bai, Amy Y Huang, Yao Yu Yeo, Guanrui Liao, Shulin Mao, Zhenghui G Jiang, Scott J Rodig, Alex K Shalek, Garry P Nolan, Sizun Jiang, Zongming Ma.
   * _Nature Immunology_
+
+* **An algorithm for forensic toolmark comparisons.** (2024). [[arXiv]](https://arxiv.org/abs/2312.00032) [[journal]](https://www.sciencedirect.com/science/article/pii/S2589871X24000901) [[BibTex]](https://scholar.googleusercontent.com/scholar.bib?q=info:_IiNaypbQkYJ:scholar.google.com/&output=citation&scisdr=ClHcv9QfEID3hxBTZ7Y:AFWwaeYAAAAAZqRVf7Zdm8qWDIi7emh7jsKP-Zg&scisig=AFWwaeYAAAAAZqRVfwpGskmzILnkW4mysdxlCa8&scisf=4&ct=citation&cd=-1&hl=en) [[talk]](https://publichealth.jhu.edu/events/2024/biostatistics-dept-seminar-introducing-forensic-science-to-biostatistics-a-method-for-forensic-toolmark-comparisons)
+
+  * Maria Cuellar, **Sheng Gao**, Heike Hofmann.
+  * _Forensic Science International: Synergy_ (FSI Synergy)
 
 * **DP-HyPO: An Adaptive Private Hyperparameter Optimization Framework.** (2023). [[arXiv]](https://arxiv.org/abs/2306.05734) [[conference]](https://nips.cc/virtual/2023/poster/72902) [[BibTex]](https://scholar.googleusercontent.com/scholar.bib?q=info:9cexp8L5MRsJ:scholar.google.com/&output=citation&scisdr=ClHSR4v_EN3f3LBwT-o:AFWwaeYAAAAAZRh2V-qsuUGeMDcc5vYTExVHDSM&scisig=AFWwaeYAAAAAZRh2V9KmW1ShSV1zrU_SNjvslvI&scisf=4&ct=citation&cd=-1&hl=en)
 
