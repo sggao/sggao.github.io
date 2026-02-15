@@ -13,8 +13,10 @@ Education
 ------
 * **Ph.D in Statistics and Data Science**, the Wharton School, University of Pennsylvania, 2018-2023
   * Advisor: Zongming Ma
+  * Dissertation: Topics in Generalized Correlation Analysis and Clustering
 * **M.Math. in Mathematics**, University of Cambridge, 2017-2018
   * Distinction Honor
+  * Master Thesis: Causal Inference with High Dimensional Data
 * **B.A. in Mathematics**, University of Cambridge, 2014-2017
   * Class I in Mathematical Tripos (2015, 2016, 2017)
   * Cambridge Overseas Trust Scholarship
