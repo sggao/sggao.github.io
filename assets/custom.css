@@ -169,3 +169,40 @@ a {
   opacity: 1;
   visibility: visible; /* ✅ 显示时才出现 */
 }
+
+/* =========================================
+   Dark Mode Fixes & Milder Colors
+   ========================================= */
+
+/* 1. Fix Link Color: Override the .page__content a specific rule */
+html.dark .page__content a {
+  color: #8ab4f8 !important;
+}
+
+/* 2. Apply Milder Grays to Sidebar, Nav, and Cards (Manual Toggle) */
+html.dark .sidebar {
+  background-color: #333333; /* Milder Gray */
+  color: #d0d0d0;
+}
+
+html.dark .greedy-nav {
+  background-color: #333333;
+}
+
+html.dark .archive__item {
+  background-color: #333333;
+  border: 1px solid #444;
+}
+
+html.dark .page__title,
+html.dark .archive__item-title {
+  color: #f0f6fc !important;
+}
+
+html.dark .page__footer {
+  background-color: #202020;
+  color: #8b949e;
+}
+html.dark .page__footer-copyright {
+  color: #8b949e;
+}
