@@ -21,7 +21,7 @@ Education
 
 Work Experience
 ------
-* Citadel Securities, July 2023 - Present
+* Citadel Securities, *July 2023 - Present, Miami, US*
   * Alpha Researcher in Systematic Equities
 
 * Citadel Securities, *Summer 2022, Chicago, US*
