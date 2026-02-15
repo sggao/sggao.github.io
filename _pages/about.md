@@ -21,11 +21,14 @@ I obtained the Bachelor of Art (B.A.) in Mathematics and the Master of Mathemati
 
 Research Interests
 ------
-* High Dimensional Statistics
-* Neuroscience
-* Differential Privacy
-* Single-cell Biology
-* Deep Learning and Machine Learning Theory
+<div class="tag-list">
+  <span class="tag">High Dimensional Statistics</span>
+  <span class="tag">Neuroscience</span>
+  <span class="tag">Differential Privacy</span>
+  <span class="tag">Single-cell Biology</span>
+  <span class="tag">Deep Learning</span>
+  <span class="tag">Machine Learning Theory</span>
+</div>
 
 
 

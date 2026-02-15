@@ -206,3 +206,29 @@ html.dark .page__footer {
 html.dark .page__footer-copyright {
   color: #8b949e;
 }
+
+/* =========================================
+   Research Interest Tags
+   ========================================= */
+.tag-list {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 10px;
+  margin-top: 10px;
+}
+
+.tag {
+  background-color: #f3f6f9;
+  color: #2c3e50;
+  padding: 5px 12px;
+  border-radius: 20px;
+  font-size: 0.9rem;
+  font-weight: 500;
+  border: 1px solid #e1e4e8;
+}
+
+html.dark .tag {
+  background-color: #333;
+  color: #e0e0e0;
+  border-color: #444;
+}
