@@ -11,7 +11,7 @@ redirect_from:
 <style>
   .fade-in-section {
     opacity: 0;
-    transform: translateY(20px);
+    transform: translateY(50px);
     transition: opacity 0.6s ease-out, transform 0.6s ease-out;
     will-change: opacity, visibility;
   }
@@ -29,7 +29,7 @@ redirect_from:
           entry.target.classList.add('is-visible');
         }
       });
-    });
+    }, { threshold: 0.1 });
     document.querySelectorAll('.fade-in-section').forEach(section => {
       observer.observe(section);
     });
