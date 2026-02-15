@@ -30,7 +30,3 @@ Research Interests
 Contact Information
 ------
 * Email: gaosheng0321 *at* gmail *dot* com
-
-Visitor Tracker
-------
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fsggao.github.io&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
