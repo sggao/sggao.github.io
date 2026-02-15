@@ -30,7 +30,3 @@ Research Interests
 Contact Information
 ------
 * Email: gaosheng0321 *at* gmail *dot* com
-
-Visitor Map
-------
-<script type="text/javascript" id="mapmyvisitors" src="//mapmyvisitors.com/map.js?d=eZoQNFSOx7xzMf1NWS1QSXkX0o156bmWQsEj9pv73qY&cl=ffffff&w=a"></script>
