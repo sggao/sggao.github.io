@@ -8,6 +8,8 @@ redirect_from:
   - /about.html
 ---
 
+<div style="margin-top: 40px;"></div>
+
 Welcome to my homepage!
 
 I am currently a Quantitative Researcher in Systematic Equities at [Citadel Securities](https://www.citadelsecurities.com/).
