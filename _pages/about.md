@@ -8,6 +8,35 @@ redirect_from:
   - /about.html
 ---
 
+<style>
+  .fade-in-section {
+    opacity: 0;
+    transform: translateY(20px);
+    transition: opacity 0.6s ease-out, transform 0.6s ease-out;
+    will-change: opacity, visibility;
+  }
+  .fade-in-section.is-visible {
+    opacity: 1;
+    transform: none;
+  }
+</style>
+
+<script>
+  document.addEventListener("DOMContentLoaded", function() {
+    const observer = new IntersectionObserver(entries => {
+      entries.forEach(entry => {
+        if (entry.isIntersecting) {
+          entry.target.classList.add('is-visible');
+        }
+      });
+    });
+    document.querySelectorAll('.fade-in-section').forEach(section => {
+      observer.observe(section);
+    });
+  });
+</script>
+
+<div class="fade-in-section" markdown="1">
 Welcome to my homepage!
 
 I am currently a Quantitative Researcher in Systematic Equities at [Citadel Securities](https://www.citadelsecurities.com/).
