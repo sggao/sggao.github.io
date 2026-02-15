@@ -3,3 +3,57 @@
 
 <!-- Load custom styling from assets -->
 <link rel="stylesheet" href="{{ '/assets/custom.css' | relative_url }}">
+
+<style>
+  /* Modern Dark Mode Overrides */
+  @media (prefers-color-scheme: dark) {
+    body {
+      background-color: #121212; /* Deep matte black */
+      color: #e0e0e0; /* Soft white for text */
+    }
+
+    /* Sidebar styling */
+    .sidebar {
+      background-color: #1e1e1e; /* Slightly lighter for hierarchy */
+      color: #d0d0d0;
+    }
+    
+    /* Navigation Bar */
+    .greedy-nav {
+      background-color: #1e1e1e;
+    }
+    .greedy-nav a {
+      color: #f0f6fc;
+    }
+
+    /* Cards and Content Boxes */
+    .archive__item {
+      background-color: #1e1e1e;
+      border: 1px solid #30363d; /* Subtle border */
+      box-shadow: none;
+    }
+    
+    /* Typography */
+    h1, h2, h3, h4, h5, h6, .page__title, .archive__item-title {
+      color: #f0f6fc;
+    }
+    
+    /* Links - GitHub Dark Mode Blue */
+    a {
+      color: #58a6ff;
+    }
+    a:hover {
+      color: #79c0ff;
+      text-decoration: underline;
+    }
+    
+    /* Footer */
+    .page__footer {
+      background-color: #0d1117;
+      color: #8b949e;
+    }
+    .page__footer-copyright {
+      color: #8b949e;
+    }
+  }
+</style>
