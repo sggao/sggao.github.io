@@ -11,7 +11,7 @@ redirect_from:
 
 Education
 ------
-* **Ph.D in Statistics and Data Science**, Wharton School, University of Pennsylvania, 2018-2023
+* **Ph.D in Statistics and Data Science**, the Wharton School, University of Pennsylvania, 2018-2023
   * Advisor: Zongming Ma
 * **M.Math. in Mathematics**, University of Cambridge, 2017-2018
   * Distinction Honor
