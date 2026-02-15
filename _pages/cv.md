@@ -21,6 +21,9 @@ Education
 
 Work Experience
 ------
+* Citadel Securities, July 2023 - Present
+  * Alpha Researcher in Systematic Equities
+
 * Citadel Securities, *Summer 2022, Chicago, US*
   * Quantitative Research Intern
   * Systematic Equities
