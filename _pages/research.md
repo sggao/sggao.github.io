@@ -30,7 +30,7 @@ Selected Publications
 
 * **Analytical composition of differential privacy via the edgeworth accountant**. (2026+) [[arXiv]](https://arxiv.org/abs/2206.04236)
   * Hua Wang, **Sheng Gao**, Huanyu Zhang, Weijie J. Su, Milan Shen.
-  * _Journal of the American Statistical Association_ (JASA, Under Review)
+  * _Journal of the American Statistical Association_ (JASA, Accepted)
 
 Posters
 ------
