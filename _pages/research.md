@@ -28,9 +28,9 @@ Selected Publications
   * Hua Wang, **Sheng Gao**, Huanyu Zhang, Weijie J. Su, Milan Shen.
   * _Conference on Neural Information Processing Systems_ (NeurIPS)
 
-* **Analytical composition of differential privacy via the edgeworth accountant**. (2026+) [[arXiv]](https://arxiv.org/abs/2206.04236)
+* **Edgeworth Accountant: An Analytical Approach to Differential Privacy Composition**. (2026) [[arXiv]](https://arxiv.org/abs/2206.04236)[[journal]](https://www.tandfonline.com/doi/abs/10.1080/01621459.2026.2668139)
   * Hua Wang, **Sheng Gao**, Huanyu Zhang, Weijie J. Su, Milan Shen.
-  * _Journal of the American Statistical Association_ (JASA, Accepted)
+  * _Journal of the American Statistical Association_ (JASA)
 
 Posters
 ------
